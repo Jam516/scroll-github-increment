@@ -1,3 +1,4 @@
+import pandas
 import requests
 import time
 from typing import List, Dict
